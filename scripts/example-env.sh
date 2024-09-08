@@ -1,0 +1,4 @@
+export WIFI_SSID=
+export WIFI_PASSWORD=
+export MQTT_BROKER=
+export MQTT_USERNAME=
